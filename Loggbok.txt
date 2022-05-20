@@ -1,1 +1,4 @@
 Jag har skapat ett github konto
+
+20/5 - Jag har jobbat för det mästa i ms paint med att skissa
+hemsidan och skapat de nödvändiga boxarna i html koden.
